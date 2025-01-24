@@ -1,0 +1,20 @@
+main{
+    background-color: #1abc9c;
+    color: white;
+    text-align: center;
+    min-height: 100vh;
+}
+main section h1{
+    text-transform: uppercase;
+    margin-block: 1.5rem;
+}
+
+
+.line{
+    height: 4px;
+    width: 80px;
+    background-color: white;
+}
+img{
+    width: 250px;
+}
